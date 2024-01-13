@@ -1,4 +1,4 @@
-package life.savag3.pp;
+package life.savag3.placeholders;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

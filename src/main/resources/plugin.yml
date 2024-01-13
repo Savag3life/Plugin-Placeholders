@@ -1,5 +1,5 @@
 version: 1.0.0
-main: life.savag3.pp.Core
+main: life.savag3.placeholders.PluginPlaceholders
 name: PluginPlaceholders
 authors: [ Savag3life ]
 depend: [ PlaceholderAPI ]

@@ -1,4 +1,4 @@
-package life.savag3.pp;
+package life.savag3.placeholders;
 
 import lombok.NonNull;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
